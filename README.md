@@ -1,3 +1,3 @@
 # example
 just for learning
-from tutorial
+from tutorial of apna college
